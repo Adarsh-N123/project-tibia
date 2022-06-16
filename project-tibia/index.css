@@ -1,0 +1,24 @@
+#sequence {
+    width:150px ; height : 220px
+}
+#sequence_table {
+    text-align:center ; width : 100%
+}
+#main_table {
+    width: 100% ; text-align: center; 
+}
+#navtable {
+    width:98%; text-align: center; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: x-large; border-radius: 9px;
+}
+.cell {
+    background-color: gray;padding:1%; 
+}
+header{
+   border-radius: 0px 0px 9px 9px; position:fixed; width:100%; background-color:darkorange ; opacity:0.975; 
+}
+main{
+    padding-top:10%
+}
+body{
+    background-color:black ;color:azure
+}
